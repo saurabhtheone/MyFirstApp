@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">मेरा पहला एप्प</string>
+    <string name="action_settings">सेटिंग</string>
+    <string name="edit_message">सन्देश लिखें!</string>
+    <string name="button_send">भेजे</string>
+    <string name="title_activity_main">मुख्य गतिविधि</string>
+    <string name="title_activity_display_message">मेरा सन्देश</string>
+    <string name="action_search">खोजें</string>
+    <string name="hello_world">नमस्कार दुनिया!</string>
+</resources>
